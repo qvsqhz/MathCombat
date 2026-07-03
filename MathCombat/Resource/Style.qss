@@ -150,6 +150,7 @@ QPushButton[style_type = "NEW_GAME_BUTTON"]
     font-family: "Manrope";
     font-size: 22px;
     font-weight: bold;
+   
 }
 
 QPushButton[style_type="NEW_GAME_BUTTON"]:hover

@@ -47,7 +47,8 @@ private:
 		{"84 - 39 = ", "45"},
 		{"12 * 8 = ", "96"},
 		{"144 / 12 = ", "12"},
-		{"7 + 3 * 4 =", "19"}
+		{"7 + 3 * 4 =", "19"},
+		{"67 + 52 =", "119"}
 	};
 
 	const std::vector<std::pair<QString, QString>> m_tasksMedium =
@@ -56,7 +57,7 @@ private:
 		{"ln(e^5) = ", "5"},
 		{"sin(90) = ", "1"},
 		{"cos(0) = ", "1"},
-		{"log_5(25) + log_5(5) = ", "3"}
+		{"log5(25) + log5(5) = ", "3"}
 	};
 
 	const std::vector<std::pair<QString, QString>> m_tasksHard =
